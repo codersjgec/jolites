@@ -1,5 +1,6 @@
 <footer>
-			<p>&copy; <a href="http://jgec.in/" target="_blank">Jalpaiguri Government Engineering College</a> 
+	<br />
+			<p>&copy; <a href="http://jgec.in/" target="_blank">Jalpaiguri Government Engineering College</a>
 			<!-- begin hit counter code --><a href="http://hit-counter.org"><img align="right" style="border: 0px solid ; display: inline;" alt="hit counter" 
 	src="http://hit-counter.org/hit.php?id=810170&counter=43"></a><br /><!-- end hit counter code -->
 			
